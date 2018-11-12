@@ -1,0 +1,6 @@
+All of the students have a higher scores all around that attend schools 
+that have less than 2000 students.
+Similarly the over all scores for sutdents that attend charter schools
+are significantly higher.
+Schools that spend in the range of $585 to $610 per student score higher
+average scores vs those that have higher spending per student. 
